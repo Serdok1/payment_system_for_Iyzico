@@ -103,7 +103,7 @@ if (process.env.HTTPS_ENABLED == "true") {
 
   app.listen(process.env.PORT, () => {
     console.log(
-      "Working on port: " + process.env.PORT + " http://localhost:443"
+      "Working on port: " + process.env.PORT + " http://localhost:543"
     );
   });
 } else {
