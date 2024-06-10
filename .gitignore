@@ -1,5 +1,5 @@
-node_modules
-env
-src/certs
-src/services/iyzico/config
-pass.txt
+./node_modules
+./env
+./src/certs
+./src/services/iyzico/config
+./pass.txt
