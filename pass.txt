@@ -1,3 +1,0 @@
-payment-system-backend
-cm2zGH4sVXEj0XJU
-mongodb+srv://payment-system-backend:cm2zGH4sVXEj0XJU@cluster0.1jwuzzx.mongodb.net/?retryWrites=true&w=majority
